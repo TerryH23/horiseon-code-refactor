@@ -1,4 +1,4 @@
-/*  */
+/* Page wide rules  */
 
 * {
     box-sizing: border-box;
@@ -77,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* Right side information */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -103,6 +104,8 @@ aside article img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Primary services */
 
 section article {
     margin-bottom: 20px;
