@@ -13,3 +13,15 @@ Refactoring the Horiseon webpage for better accessibility and search engine opti
 - Consolidated redundant classes in CSS
 - Reorganized classes to better follow content within HTML
 
+# Preview
+
+![Preview](https://github.com/TerryH23/horiseon-code-refactor/blob/main/assets/images/Horiseon%20webpage.png?raw=true)
+
+
+# Links
+
+## Webpage
+https://terryh23.github.io/horiseon-code-refactor/
+
+## Repository
+https://github.com/TerryH23/horiseon-code-refactor
